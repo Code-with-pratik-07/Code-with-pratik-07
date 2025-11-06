@@ -9,7 +9,6 @@
   • Database-driven Python applications  
 - 🌱 I’m currently learning: TensorFlow, PyTorch, DSA, Database optimization  
 - 💬 Ask me about: Python, AI/ML, Databases, Interactive Simulations
-
 ## 🏆 GitHub Achievements
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Code-with-Pratik-07&theme=radical)
    <!-- <img src="https://github-profile-trophy.vercel.app/?username=Code-with-pratik-07ryo-ma&theme=juicyfresh -->
