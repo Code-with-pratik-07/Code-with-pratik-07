@@ -65,17 +65,18 @@ A passionate AI/ML & Python Developer from India 🇮🇳
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Code-with-Pratik-07&show_icons=true&theme=radical&hide_border=true" />
+  <img height="170"
+       src="https://github-stats-extended.vercel.app/api?username=Code-with-Pratik-07&show_icons=true&theme=radical&hide_border=true" />
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-with-Pratik-07&layout=compact&theme=radical&hide_border=true" />
+  <img height="170"
+       src="https://github-stats-extended.vercel.app/api/top-langs/?username=Code-with-Pratik-07&layout=compact&theme=radical&hide_border=true" />
 </p>
-
 ---
 
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Code-with-Pratik-07&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Code-with-Pratik-07&theme=radical&hide_border=true" />
 </p>
 
 ---
