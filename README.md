@@ -1,53 +1,115 @@
 <h1 align="center">Hi 👋, I'm Pratik Kumar Singh</h1>
-<h3 align="center">A passionate AI/ML & Python Developer from India</h3>
-<a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" /></a>
 
-## 🔗 About Me
-- 🔭 I’m currently working on:  
-  • Interactive Python simulations 
-  • AI/ML projects using TensorFlow & Scikit-Learn  
-  • Database-driven Python applications  
-- 🌱 I’m currently learning: TensorFlow, PyTorch, DSA, Database optimization  
-- 💬 Ask me about: Python, AI/ML, Databases, Interactive Simulations
-## 🏆 GitHub Achievements
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Code-with-Pratik-07&theme=radical)
-   <!-- <img src="https://github-profile-trophy.vercel.app/?username=Code-with-pratik-07ryo-ma&theme=juicyfresh -->
-## 🏆 Hacktoberfest Achievement
+<h3 align="center">
+A passionate AI/ML & Python Developer from India 🇮🇳
+</h3>
 
 <p align="center">
-  <a href="https://holopin.io/@codewithpratik07" target="_blank">
-    <img src="https://holopin.me/codewithpratik07" width="300" alt="Hacktoberfest 2025 Super Contributor Badge">
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200" height="200">
+</p>
+
+---
+
+## 🔗 About Me
+
+- 🔭 Currently working on AI/ML and Python projects
+- 🤖 Building projects using TensorFlow, PyTorch and Scikit-Learn
+- 🧠 Learning DSA, Deep Learning and Machine Learning
+- 🗄️ Exploring databases and database optimization
+- 💬 Ask me about Python, AI/ML, SQL and Machine Learning
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Code-with-Pratik-07&theme=radical" />
+</p>
+
+---
+
+## 🏆 Hacktoberfest
+
+<p align="center">
+  <a href="https://holopin.io/@codewithpratik07">
+    <img src="https://holopin.me/codewithpratik07" width="300" alt="Hacktoberfest Badges">
   </a>
 </p>
 
+---
 
 ## 💻 Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TensorFlow](https://img.shields.io/badge/tensorflow-%23FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2300f?style=for-the-badge&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-%23006?style=for-the-badge&logo=opencv&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-%230052CC?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white">
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+
+</p>
+
+---
 
 ## 📊 GitHub Stats
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=code-with-pratik-07&show_icons=true&count_private=true&theme=radical" />
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=code-with-pratik-07&theme=radical" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-with-pratik-07&theme=radical&layout=compact" />
-</div>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Code-with-Pratik-07&show_icons=true&theme=radical&hide_border=true" />
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-with-Pratik-07&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Code-with-Pratik-07&theme=radical&hide_border=true" />
+</p>
+
+---
 
 ## 📈 Contribution Graph
 
-  ![Pratik's GitHub Contribution Graph](https://activity-graph.vercel.app/graph?username=Code-with-pratik-07&theme=react-dark&hide_border=false)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Code-with-Pratik-07&theme=react-dark&hide_border=true" />
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+---
 
-### 🔝 Top Contributed Repos
-![](https://github-contributor-stats.vercel.app/api?username=code-with-pratik-07&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## ✍️ Random Dev Quote
 
-## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the_pratik_31) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pratik-kumar-singh-aa3b71329)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pratiksingh.cs@gmail.com)
+<p align="center">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://instagram.com/the_pratik_31">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+<a href="https://linkedin.com/in/pratik-kumar-singh-aa3b71329">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:pratiksingh.cs@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</p>
